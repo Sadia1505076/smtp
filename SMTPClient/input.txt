@@ -1,0 +1,14 @@
+HELO
+MAIL FROM:<sadiatasnim1005@gmail.com>
+RCPT TO:<shashata003@gmail.com>
+DATA
+HI
+Content-Type: multipart/mixed; boundary=sadiatasnim
+--sadiatasnim
+
+HELLLO
+SDJFHSJF
+SDJFJS
+attachment SMTPClient.java
+.
+y
